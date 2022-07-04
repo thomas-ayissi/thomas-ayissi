@@ -6,7 +6,7 @@
 
 ## Places where I have lived :grey_question:
 
-Born and raised in this world
+Born and raised in this (sad) world
 
 ## School
 
@@ -16,7 +16,7 @@ Sciences, Information/Communication and Code
 
 To improve my skills :computer: and find a job.
 
-## Images :camera:
+## Image :camera:
 
 ![This is a picture of Thomas.](/hyf-pic-thomas.jpeg "This is a sample image of Thomas.").
 
