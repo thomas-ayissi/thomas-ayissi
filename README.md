@@ -2,7 +2,7 @@
 
 ## Name
 
-:raised_hand: I am Thomas Ayissi
+Hi :raised_hand: I am Thomas Ayissi.
 
 ## Places where I have lived :grey_question:
 
@@ -16,9 +16,18 @@ Sciences, Information/Communication and Code
 
 To improve my skills :computer: and find a job.
 
-## Image :camera:
+## Some hobbies
 
-![This is a picture of Thomas.](/hyf-pic-thomas.jpeg "This is a sample image of Thomas.").
+- :video_game: Video games
+- :video_camera: Photography :
+  [some of my pictures here](https://galerie-b.thomasayissi.tech/).
+- :books: Reading
+- :musical_note: Music Singing and playing guitar and piano
+
+
+## My :camera: Image
+
+![This is a picture of Thomas.](pic-thomas-ayissi.jpeg 'This is a sample image of Thomas.')
 
 <!--
 **thomas-ayissi/thomas-ayissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
