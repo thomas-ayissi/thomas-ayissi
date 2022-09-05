@@ -14,7 +14,7 @@ Sciences, Information/Communication and Code
 
 ## Why learn code :grey_question:
 
-To improve my skills :computer: and find a job.
+To improve my skills :computer:.
 
 ## Some hobbies
 
