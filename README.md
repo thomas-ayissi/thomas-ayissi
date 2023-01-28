@@ -6,7 +6,7 @@ Hi :raised_hand: I am Thomas Ayissi.
 
 ## Places where I have lived :grey_question:
 
-Born and raised in this (sad) world
+Born and raised in this world
 
 ## School
 
